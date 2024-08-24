@@ -1,0 +1,11 @@
+Throughput:                         0.17857142857142858
+CPU Utilization:                    100.0
+Average Waiting Time:               11.4
+Average Turnaround Time:            17.0
+Average Response Time:              4.0
+Execution of processes overtime:
+T1, 0, 3, 14, 15, 
+T2, 3, 6, 15, 17, 
+T3, 6, 8, 
+T4, 8, 11, 17, 20, 23, 25, 
+T5, 11, 14, 20, 23, 25, 28, 

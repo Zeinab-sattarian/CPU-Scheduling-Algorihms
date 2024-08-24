@@ -1,0 +1,6 @@
+FCFS
+PRiority P
+PRiority NP
+SJF NP (replace SJF with SJF-NP)
+RR
+
